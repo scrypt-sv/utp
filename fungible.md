@@ -1,5 +1,4 @@
 # UTXO-based Token Protocol: Fungible
-UTXO-based Token Protocol (UTP) aims to provide a unified standard for tokens on Bitcoin SV, which allows maximal interoperability among various token providers and is thus implemention-agonostic.
 
 ## Token UTXOs
 UTP assumes tokens are stored inside UTXOs, spendable or not. Each token UTXO contains the following information.
@@ -44,4 +43,4 @@ Token metadata are embedded in one of the outputs of the token issuance transact
 [Example implementation](https://medium.com/@xiaohuiliu/utxo-based-layer-1-tokens-on-bitcoin-sv-f5e86a74c1e1).
 
 ## Copyright
-[Open BSV License](https://github.com/scrypt-sv/utp/blob/master/LICENSE)
+[Open BSV License](LICENSE)
